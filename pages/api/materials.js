@@ -213,6 +213,6 @@ const materials = [
 
   
   export default function handler(req, res) {
-    res.status(200).json(elementos);
+    res.status(200).json(materials);
   }
   
